@@ -2,7 +2,7 @@
 
 <p>I am David Thatcher, a self enployed Rolfer who is making the transition into the wonderful world of code!
 
-I'm currently a self taught programmer, primarily in Javascript with exposure to React, Redux and Sagas, and some python experience.
+I'm currently a self taught programmer, primarily in Javascript with exposure to React/Redux, Kotlin (Ktor), and some python experience.
 
   I'm in the midst of a Work Experience program at <b>GuideWire!!</b> 
   

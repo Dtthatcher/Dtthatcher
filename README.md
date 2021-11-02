@@ -1,22 +1,30 @@
 <h1>Welcome to my gitHub!!</h1>
 
-<p>I am David Thatcher, a self enployed Rolfer who is making the transition into the wonderful world of code!
-
-I'm currently a self taught programmer, primarily in Javascript with exposure to React/Redux, Kotlin (Ktor), and some python experience.
-
-  I'm in the midst of a Work Experience program at <b>GuideWire!!</b> 
+<p>My name is David Thatcher and I am a Junior Software Developer.
   
-  This is a pilot program that allows persons coming from a non-traditional
-coding background to take an active role in their intern program. Through this I am working in an Agile work environment, 
-specifically using Slack, Zoom, Trello and Miro to manage design and workflows. My role has been in helping design the initial buildout
- of the intern project, while working to modify an existing piece of software to use as an alternative to their build.  This means building
- the data model in MySQL, converting the backend to Kotlin Ktor Framework with Exposed, and modifying the frontend to match the new modeling (as well as updating dependencies to a
- stable version).
+  Prior to developing, I was a self employed Rolfer in the greater NYC area. For 14 years I worked with people who had chronic
+  pain and movement issues, addressing their structural holding patterns and creating action plans to get them back to living fulfilling and
+  productive lives!
   
-  If you would like to hear more about the itern project
-and my specific role in it, feel free to reach out!<p>
+  I am a self taught programmer. My stack includes Kotlin for serverside development, Javascript (React) for my frontend UI, and MySQL
+  for data persistance. 
+  
+  Currently I am training in Kotlin Android development, as well as Jetpack Compose to create multiplatform apps that utilize a common codebase.
 
+  In August of this 2021 I finished a Work Experience Program with Guidewire.
+  
+  This was a pilot program that allows persons coming from a non-traditional
+  coding background to take an active role in their intern program. Through this I was working in an Agile work environment, 
+  specifically using Slack, Zoom, Trello and Miro to manage design and workflows. My role was helping design the initial buildout
+  of the intern project, while working to modify an existing piece of software to use as an alternative to their build.  This meant building
+  the data model in MySQL, converting the backend web server to Kotlin Ktor Framework with Exposed, 
+  and modifying the frontend to match the new modeling (as well as updating dependencies to  a
+  stable version).
+  
+  I am excited for this new chapter and look forward to linking up with you!
 
-
-<a href="https://drive.google.com/file/d/18qJpfMq743OC9eO_XhNGuOgE2byt2CWp/view?usp=sharing">
-Check out my Resume Here!!</a>
+  <a href="https://drive.google.com/file/d/1Wiut1-K9Esx-3WZu-rC7hLeRvrwJ1-9b/view?usp=sharing">
+  You can check out my Resume here!!</a>
+  <br>
+  <a href="https://www.linkedin.com/in/david-thatcher-2ab00343/">
+    Check out my LinkedIn Profile here!!</a>

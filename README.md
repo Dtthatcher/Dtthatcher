@@ -23,7 +23,7 @@
   
   I am excited for this new chapter and look forward to linking up with you!
 
-  <a href="https://drive.google.com/file/d/1Wiut1-K9Esx-3WZu-rC7hLeRvrwJ1-9b/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1ZoT3pbj_sWHDVv6deEptMMbMsM6mywyO/view?usp=sharing">
   You can check out my Resume here!!</a>
   <br>
   <a href="https://www.linkedin.com/in/david-thatcher-2ab00343/">

@@ -1,3 +1,4 @@
+
 <h1>Welcome to my gitHub!!</h1>
 
 <p>My name is David Thatcher and I am a Junior Software Developer.
@@ -9,7 +10,8 @@
   I am a self taught programmer. My stack includes Kotlin for serverside development, Javascript (React) for my frontend UI, and MySQL
   for data persistance. 
   
-  Currently I am training in Kotlin Android development, as well as Jetpack Compose to create multiplatform apps that utilize a common codebase.
+  Currently I am training in Kotlin Android development, as well as Jetpack Compose to create multiplatform apps that utilize a common codebase,
+  and the AWS Cloud Architect track through ACloudGuru.com
 
   In August of this 2021 I finished a Work Experience Program with Guidewire.
   
@@ -28,3 +30,17 @@
   <br>
   <a href="https://www.linkedin.com/in/david-thatcher-2ab00343/">
     Check out my LinkedIn Profile here!!</a>
+</p>
+<br>
+<h1>Projects worth clicking on!</h1>
+<ul>
+  <li>
+    <a href="https://github.com/Dtthatcher/AMS-Client">This is a simple full stack app I made in a few days for an interview</a>
+  <li>
+    <a href="https://github.com/Dtthatcher/Indigo-Card-Game">This JetBrains Academy Project is a card game tha shows OOP design and implementation</a>
+  <li>
+    <a href="https://github.com/Dtthatcher/SeamCarving">This was a very fun JetBrains Academy Seam Carving Project</a>
+  <li>
+    <a href="https://github.com/Dtthatcher/Smart-Calculator">JetBrains Academy Smart Calculator Project</a>
+  <li>
+    <a href="https://github.com/Dtthatcher/crwn-clothingg">Udemy ZTM Complete React Developer in 2021 Project</a>
